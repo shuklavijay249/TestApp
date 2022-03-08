@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_s_name">User\'s Name</string>
+    <string name="gender">Gender</string>
+    <string name="user_s_email">User\'s email</string>
+    <string name="active_inactive">Active/InActive</string>
+    <string name="vijay">Vijay</string>
+    <string name="shuklavijay249_gmail_com">shuklavijay249@gmail.com</string>
+    <string name="male">Male</string>
+    <string name="status">status</string>
+</resources>
